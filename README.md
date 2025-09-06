@@ -1,8 +1,8 @@
-# Movie Ticket Booking System  
+# Movie Ticket Bookin System  
 **Saina Rohit**  
 
 ## 🎥 Demo Video  
-[Watch the full demo on YouTube](https://www.youtube.com/watch?v=ECQBA6tLw2M)  
+[Watch the full demo on YouTub](https://youtu.be/dH6QSxLNT9g?feature=shared)  
 
 ## Key Features  
 | User Features          | Admin Features       |
